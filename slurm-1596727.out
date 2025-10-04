@@ -1,0 +1,8 @@
+Job OpenMP iniciado em: sáb out  4 08:56:54 -03 2025
+Executando com 64 threads...
+ vectors added with 0 errors
+Init time:    0.074s
+Compute time: 0.050s
+Test time:    0.051s
+Total time:   0.175s
+Job concluído em: sáb out  4 08:56:55 -03 2025
